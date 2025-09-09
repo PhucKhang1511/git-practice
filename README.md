@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nghị Phúc Khang, MSSV 225130.
+Đây là README từ nhánh conflict-demo.
